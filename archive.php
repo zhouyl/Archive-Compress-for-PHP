@@ -17,6 +17,7 @@
  *         ->decompress('zip_compress.zip'); // 解压指定文件
  * </code>
  *
+ * @see     http://framework.zend.com/manual/1.10/en/zend.filter.set.html#zend.filter.set.compress.decompress
  * @author  ZhouYL <aultoale@gmail.com>
  * @license http://apache.org/licenses/LICENSE-2.0.txt
  */
